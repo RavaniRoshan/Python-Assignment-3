@@ -144,14 +144,14 @@ This is a college assignment project. While it's not open for contributions, you
 This project is created for educational purposes as part of a college assignment.
 
 ### Author
-[Your Name]
-[Your College Name]
-[Your Course/Class]
+[Ravani Roshan]
+[Silver Oak university]
+[B.tech CSE/4CSE_D]
 
 ### Acknowledgments
 - Python Pillow Documentation
 - Course Instructors and Teaching Assistants
-- [Any other acknowledgments]
+
 
 ---
 *Note: This project was created as part of a college assignment demonstrating the use of advanced Python libraries, specifically focusing on image processing using Pillow.* 

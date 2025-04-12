@@ -5,7 +5,7 @@ Pillow Image Editor - A Mini Project on Advanced Libraries in Python
 This project demonstrates the capabilities of the Pillow library for image processing.
 It implements a simple command-line image editor with various features.
 
-Author: [Your Name]
+Author: [Ravani Roshan]
 Date: April 11, 2025
 """
 
